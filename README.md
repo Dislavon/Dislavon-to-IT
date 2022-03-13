@@ -11,4 +11,4 @@ Task list:
   - [ ] Link to the bot should be provided via welcome e-mail, the bot should request the assignee's Senior's name so it would send a respective info to senior
   - [ ] Info from bot should be delivered in excel form for 
 - [ ] Tax advisor bot based on our organizer
-# My goal - to work in IT (gaming industry please), because I hecking love IT, gaming and my PC is like a brother to me. We need to make it official, I can not hide my feelings anymore. I want to develop my own things, feels like I am building a home while writing a programm and I - -  - L O V E I T.
+## My goal - to work in IT (gaming industry please), because I hecking love IT, gaming and my PC is like a brother to me. We need to make it official, I can not hide my feelings anymore. I want to develop my own things, feels like I am building a home while writing a programm and I - -  - L O V E I T.
